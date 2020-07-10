@@ -1,0 +1,13 @@
+{
+  "name": "nuxeo-studio-project-analyzer",
+  "description": "Nuxeo Studio Project Analyzer",
+  "repository": "mnixo/nuxeo-studio-project-analyzer",
+  "license": "MIT",
+  "version": "0.0.1",
+  "dependencies": {
+    "btoa": "^1.2.1",
+    "node-fetch": "^2.6.0",
+    "readline-sync": "^1.4.10",
+    "xmldom": "^0.3.0"
+  }
+}
