@@ -6,7 +6,7 @@
   "version": "0.0.1",
   "dependencies": {
     "btoa": "^1.2.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "readline-sync": "^1.4.10",
     "xmldom": "^0.3.0"
   }
